@@ -1,0 +1,6 @@
+name         'rfletcher-bc'
+version      '0.0.1'
+license      'MIT License'
+summary      'A puppet module for bc'
+description  'Install or remove bc'
+project_page 'https://github.com/rfletcher/puppet-bc'
